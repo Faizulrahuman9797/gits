@@ -16,7 +16,7 @@ Then close the browser
 
 Examples:
 |username|password|location|hotel|roomtype|firstname|lastname|address|cardnum|cardtype|exp_month|exp_year|cvv|
-|faizulrahuman|faizulrahuman008|Melbourne|Hotel sunshine|Double|selvaraj|pandey|Edappadi|9845697845235469|VISA|7|2025|224
+|faizulrahuman|faizulrahuman008|Melbourne|Hotel sunshine|Double|selvaraj|pandey|Edappadi|9845697845235469|VISA|7|2025|224|
 
 
 
