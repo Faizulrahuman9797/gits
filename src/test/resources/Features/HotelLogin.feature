@@ -12,7 +12,8 @@ And Enter the "<location>" and hotel"<hotel>" and room"<roomtype>"
 And Enter the first"<firstname>" and lastname"<lastname>" and "<address>"
 And Enter the cardno"<cardno>" and cardtype"<cardtype>" and month "<exp_month>" and year"<exp_year>" and cvv "<cvv>" 
 Then I validate the outcomes 
-Then close the browser
+Then close the window
+
 
 Examples:
 |username|password|location|hotel|roomtype|firstname|lastname|address|cardnum|cardtype|exp_month|exp_year|cvv|
